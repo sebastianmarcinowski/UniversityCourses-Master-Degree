@@ -1,1 +1,1 @@
-"UniversityCourses-Master-Degree" 
+"University Courses Master Degree" 
